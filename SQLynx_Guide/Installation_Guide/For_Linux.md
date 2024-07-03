@@ -48,7 +48,8 @@ sh maicong-sqlynx.sh restart
 
 -The following login page appears, indicating that SQLynx has been installed successfully.
 
-![SQLynx Login](https://github.com/senkae4server/-WEB_SQL_IDE-_SQLynx/blob/main/SQLynx_Guide/pics/login%20en.png)
+![SQLynx Login](https://github.com/senkae4server/-WEB_SQL_IDE-_SQLynx/assets/173672207/36d6dd7a-d82e-4742-a310-515759fcea5d)
+
 
 Default username :`maicong`;     Password is `setting by user’s input`.
 
