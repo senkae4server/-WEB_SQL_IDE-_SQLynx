@@ -43,7 +43,7 @@ sh maicong-sqlynx.sh restart
 [^Notes]:The default port number 18888 can be customized.
 
 6.The following login page appears, indicating that SQLynx has been installed successfully.
-![SQLynx Login](https://wwww.github.com/)
+![SQLynx Login](https://github.com/senkae4server/-WEB_SQL_IDE-_SQLynx/blob/main/SQLynx_Guide/login%20en.png)
 Default username : maicong     password: setting by user’s input.
 
 # Modify configuration
